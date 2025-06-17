@@ -126,7 +126,7 @@ XXX
 
 ### p32-34: Agreement between RCI and AMNH for mini baby _Baro_ (1995-12-08)
 
-The date "Deceber 8, 1995" in thr header is struck through.
+The date "Deceber 8, 1995" in the header is struck through.
 
 A handwritten additional clause 9 reads "RCI agrees to deliver the finished mount no later than April 30 1996. Time is of the essence."
 
