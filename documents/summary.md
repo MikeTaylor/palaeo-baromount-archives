@@ -28,7 +28,7 @@
 
 This entire document is the 40-page "Specifications for Construction" document prepared by Ralph Appelbaum Associates Incorporated Planning and Design and dated April 4, 1991.
 
-XXX I will extract pertinent details to this document.
+XXX I will extract pertinent details to this document. Current read up to start of "SECTION 0150" COORDINATION" with nothing found of interest.
 
 The current (2025-05-27) version of the manuscript does not mention Appelbaum Associates at all, which seems like quite the oversight. But see the document Peter May sent, `/Users/mike/git/other/palaeo-baromount/notes/2024-11-29--call-with-peter-may/follow-up/Appelbaum Barosaurus blueprints.docx`
 
